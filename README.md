@@ -1,5 +1,5 @@
-# vue-axios
-vue+axios构建的后台管理平台
+# vue-elementUI
+vue+elementUI构建的后台管理平台
 
 ## Build Setup
 
